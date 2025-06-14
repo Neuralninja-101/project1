@@ -5,3 +5,4 @@ pillow
 tiktoken
 beautifulsoup4
 requests
+httpx
