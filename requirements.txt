@@ -6,3 +6,4 @@ tiktoken
 beautifulsoup4
 requests
 httpx
+dotenv
