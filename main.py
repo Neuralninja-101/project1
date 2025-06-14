@@ -4,7 +4,6 @@ from typing import Optional, List, Dict
 import base64
 import httpx
 import os
-from dotenv import load_dotenv ## added
 
 AIPIPE_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjEwMDExNzdAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.6FuJgEJ9v8AukUuzZsBHMzUaYvtPfTfrN8qrMhiSgaI'
 AIPIPE_URL = "https://aipipe.org/openrouter/v1/chat/completions"
